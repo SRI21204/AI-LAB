@@ -1,7 +1,7 @@
 /* To run this Program
  [routes].
  route_path("tampa", "kansas_city", Path, Distance).
- use ; colon to get outputs
+ use ; colon to get more outputs
 */
 
 % --------------------------------------
