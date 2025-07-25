@@ -1,3 +1,7 @@
+/* To run the program
+[dfs].
+solve(a,Solution).
+*/
 % Define the goal node
 goal(g).  % <-- You can change 'g' to your actual goal node
 
