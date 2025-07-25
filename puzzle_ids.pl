@@ -1,3 +1,7 @@
+/*To run this Program
+[puzzle_ids].
+ids.
+*/
 % ------------------------------
 % 8-Puzzle State Representation
 % ------------------------------
