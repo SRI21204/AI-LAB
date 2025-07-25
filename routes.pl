@@ -1,3 +1,9 @@
+/* To run this Program
+ [routes].
+ route_path("tampa", "kansas_city", Path, Distance).
+ use ; colon to get outputs
+*/
+
 % --------------------------------------
 % Facts: Direct roads with distances
 % --------------------------------------
