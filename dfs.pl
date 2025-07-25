@@ -1,6 +1,7 @@
 /* To run the program
 [dfs].
 solve(a,Solution).
+use ; colon to get more outputs
 */
 % Define the goal node
 goal(g).  % <-- You can change 'g' to your actual goal node
