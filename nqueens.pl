@@ -1,3 +1,7 @@
+/* To run this Program
+[nqueens].
+ n_queens(4,Qs).
+*/
 :- use_module(library(clpfd)).
 
 n_queens(N, Qs) :-
